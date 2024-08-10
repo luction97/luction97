@@ -6,7 +6,7 @@
   </p>
 <br>
 
-# 💫 About Me:
+# :coffee: About Me:
 Full Stack Developer specializing in backend development with Java and Spring Boot.
 Three years of professional experience in developing and maintaining scalable web applications, as well as in migrating to microservices and new technologies. Currently, I am expanding my knowledge in other languages, such as Python.<br>
 
