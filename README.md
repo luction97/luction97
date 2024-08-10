@@ -1,3 +1,11 @@
+<h1 align="center">Hello! 👋 I'm Lucas Siano. </h1> 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-siano-developer/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:sianolucasdev@hotmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="@luction97"  /></a>
+  </p>
+<br>
+
 # 💫 About Me:
 Full Stack Developer specializing in backend development with Java and Spring Boot.
 Three years of professional experience in developing and maintaining scalable web applications, as well as in migrating to microservices and new technologies. Currently, I am expanding my knowledge in other languages, such as Python.<br>
