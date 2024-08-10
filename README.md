@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desarrollador Full Stack especializado en backend con Java y Spring Boot. <br>Tres años de experiencia profesional en el desarrollo y mantenimiento de aplicaciones web escalables y en la migración a microservicios y nuevas tecnologías. Actualmente, estoy ampliando mis conocimientos en otros lenguajes como Python.<br>
+Full Stack Developer specializing in backend development with Java and Spring Boot.
+Three years of professional experience in developing and maintaining scalable web applications, as well as in migrating to microservices and new technologies. Currently, I am expanding my knowledge in other languages, such as Python.<br>
 
 
 # 💻 Tech Stack:
